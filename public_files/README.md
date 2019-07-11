@@ -1,1 +1,3 @@
-# kripton_web
+# Notes
+
+File here for pages purpose
